@@ -1,3 +1,9 @@
 body{
     background-color:lightseagreen;
 }
+
+#library {
+    text-align: center;
+    font-size: 50px;
+    color: darkblue;
+}
